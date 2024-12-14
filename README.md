@@ -1,6 +1,6 @@
 ## About The Project
 
-**screenshots**
+![Screenshot from 2024-12-14 13-41-56](https://github.com/user-attachments/assets/df4d8de6-d99d-4b38-aa01-e90c05d4d3ce)
 
 This project is a simple yet powerful tool for creating a personalized hub for all your social media links. Inspired by platforms like LinkTree, it allows users to centralize their online presence in a single, shareable URL.  
 
@@ -28,19 +28,24 @@ This app was designed to be both scalable and user-friendly, offering a modern s
 For those interested in how the project works without having to install it, here are some screenshots showcasing its key features:  
 
 *Home Page* 
-**screenshots**
+![Screenshot from 2024-12-14 13-41-56](https://github.com/user-attachments/assets/df4d8de6-d99d-4b38-aa01-e90c05d4d3ce)
+
 
 *Login / Register pages*  
-**screenshots**
+![Screenshot from 2024-12-14 13-42-05](https://github.com/user-attachments/assets/4d490ca5-682d-4301-8e50-2c8d4d9642ff)
+
 
 *Update your profile data* 
-**screenshots**
+![Screenshot from 2024-12-14 13-42-40](https://github.com/user-attachments/assets/bf88f909-baca-438f-9cf6-c83e4b2c01cd)
+
 
 *Manage your socials*  
-**screenshots**
+![Screenshot from 2024-12-14 13-42-24](https://github.com/user-attachments/assets/17665d72-2bd9-4358-92a5-424f98f9253a)
+![Screenshot from 2024-12-14 13-44-34](https://github.com/user-attachments/assets/75e05ddf-3c2a-4229-abb1-e13e46787d02)
+
 
 *Your profile page*  
-**screenshots**
+![Screenshot from 2024-12-14 13-42-47](https://github.com/user-attachments/assets/c34d6833-627a-4f0a-9375-c037901cd8d0)
 
 
 ## Getting Started
