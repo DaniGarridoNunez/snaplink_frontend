@@ -71,12 +71,12 @@ To get started first you will need to install the following:
    ```
 5. Enter your API keys in `.env` at /backend for example:
    ```sh
-  FRONTEND_URL= http://localhost:5173
-  MONGO_URI=mongodb+srv://root:<db_password>@cluster0.example.mongodb.net/snaplink
-  CLOUDINARY_NAME=name
-  CLOUDINARY_API_KEY=apikey
-  CLOUDINARY_API_SECRET=apisecret
-  JWT_SECRET=palabrasupersecreta
+    FRONTEND_URL= http://localhost:5173
+    MONGO_URI=mongodb+srv://root:<db_password>@cluster0.example.mongodb.net/snaplink
+    CLOUDINARY_NAME=name
+    CLOUDINARY_API_KEY=apikey
+    CLOUDINARY_API_SECRET=apisecret
+    JWT_SECRET=palabrasupersecreta
    ```
 6. Enter your API keys in `.env.local` at /frontend:
     ```sh
